@@ -11,6 +11,6 @@ The data loading and cleaning steps of the Dataquest Python Project 350 - Profit
 #### Analysis:
 - Frequency table that shows categories ranked by number of apps
 - Group apps by most popular in each category (table created using _DAX_ that shows the top 3 apps in each category)
-  - a category may have more apps, however the average of installs (or ratings in the case of the AppleStore) was used to determine which categories are more popular
+  - a category may have more apps, however the average number of installs (or ratings in the case of the AppleStore) was used to determine which categories are more popular as well as their more popular apps
  
-A PDF wiht a screenshot is included and please note the Apple Store and Google Play Store data are displayed in slightly different ways (I wanted to try different ways to display a list of the most popular apps in each category).
+A PDF with a screenshot is included and please note the Apple Store and Google Play Store data are displayed in slightly different ways (I wanted to try different ways to display a list of the most popular apps in each category).
